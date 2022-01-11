@@ -1,0 +1,6 @@
+1. Create GitHub Account //With your 'U' Number
+2. Download Git		https://git-scm.com/downloads
+3. Download Git LFS	https://git-lfs.github.com/
+4. Open Git Bash -> Type git lfs install
+5. Download GitHub Desktop
+6. Clone Repository
