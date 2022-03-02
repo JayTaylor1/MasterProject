@@ -4,8 +4,9 @@
 4. Open Git Bash -> Type git lfs install
 5. Download GitHub Desktop
 6. Clone Repository
+7. Change branch to 18022022
 
-7. Open Unreal (4.27.0)
-8. Find & Open the locally saved project
-9. DO NOT ATTEMPT TO RETARGET THE VERSION
-10.Select Source control & enable Git
+8. Open Unreal (4.27.0)
+9. Find & Open the locally saved project
+10. DO NOT ATTEMPT TO RETARGET THE VERSION
+11.Select Source control & enable Git
