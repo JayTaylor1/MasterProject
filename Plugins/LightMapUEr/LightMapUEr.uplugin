@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.3",
+	"FriendlyName": "AutoLightmapUEr",
+	"Description": "Automatically assigns lightmap sizes to all static mesh actors (or all actors with static mesh components) based on a selected preset which details the sizes and resolutions the user wants used. Has the option to respect previously lightmap sizes the user has set themselves, when needed.",
+	"Category": "NT Entertainment",
+	"CreatedBy": "NT Entertainment",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/3e5c949daaab494fb5dbf54b29b0d38b",
+	"SupportURL": "https://forums.unrealengine.com/showthread.php?119397",
+	"EngineVersion": "4.27.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "LightMapUEr",
+			"Type": "EditorNoCommandlet",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32",
+				"Mac"
+			]
+		}
+	]
+}

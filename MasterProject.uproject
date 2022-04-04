@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.27",
+	"EngineAssociation": "{6B89323F-4F16-370B-A495-529F8234C404}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -11,6 +11,11 @@
 		{
 			"Name": "ApexDestruction",
 			"Enabled": true
+		},
+		{
+			"Name": "LightMapUEr",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/3e5c949daaab494fb5dbf54b29b0d38b"
 		}
 	]
 }
