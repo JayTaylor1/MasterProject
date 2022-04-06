@@ -1,5 +1,0 @@
-Go to "%localappdata%"
-If folder "UnrealEngine" doesn't exist, create it > enter folder
-If folder "UnrealEngine" exists, enter it > delete folder "4.27"
-From this zip, put "4.27" into the "UnrealEngine" folder
-Launch project as normal 
